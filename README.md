@@ -4,9 +4,9 @@
   
   ⤷ __Interests__: Graphic Design, Cooking, Game Development
 
-  ⤷ __Currently Learning__: C++ and C
+  ⤷ __Languages__: Javascript, Python, C, C++, HTML/CSS, Java
 
-  ⤷ __Currently Working On__: Nothing at the moment!
+  ⤷ __Currently Working On__: Portfolio Website!
 
 <!--
 **kaquiUIC/kaquiUIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
