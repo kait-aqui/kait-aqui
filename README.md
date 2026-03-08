@@ -4,7 +4,7 @@
   
   ⤷ __Interests__: Graphic Design, Cooking, Game Development
 
-  ⤷ __Languages__: Javascript, Python, C, C++, HTML/CSS, Java
+  ⤷ __Languages__: Javascript, Python, C, C++, HTML, CSS, Java
 
   ⤷ __Currently Working On__: Portfolio Website!
 
