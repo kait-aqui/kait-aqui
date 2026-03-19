@@ -2,7 +2,7 @@
 
   ⤷ Hi! My name is Kaitlyn Aquino, and I'm a Computer Science and Design student at UIC.
   
-  ⤷ __Interests__: Graphic Design, Cooking, Game Development
+  ⤷ __Interests__: Graphic Design, UI/UX Design, Game Development
 
   ⤷ __Languages__: Javascript, Python, C, C++, HTML, CSS, Java
 
